@@ -10,4 +10,8 @@ install :
 - echo "this is install process"
 script :
 - echo "this is script process"
+
+notifications:
+  slack: katrinadev:llGhYVE36mxIIU9345xbX6hM
+
 	
